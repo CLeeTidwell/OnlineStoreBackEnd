@@ -33,8 +33,6 @@ Then run:
 
 `npm start`
 
-**[⬆ back to top](#table-of-contents)**
-
 
 ## Technologies
 - Sequelize
@@ -54,3 +52,5 @@ Then run:
 ---
 ### Contact
 CTidwell106@gmail.com
+
+**[⬆ back to top](#table-of-contents)**
