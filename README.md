@@ -27,7 +27,7 @@ Type the following command in your termimal:
 
 Quit mySQL shell. Run the following command to seed the files:
 
-`npm run seed`.
+`npm run seed`
 
 Then run:
 
