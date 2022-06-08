@@ -19,10 +19,21 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Usage
 
-![screenshot](./assets/title.jpg)
-![screenshot of webpage](./assets/screenshot.jpg)
-![screenshot](./assets/video.jpg)
+## Usage
+Type the following command in your termimal:
+`mysql -u root -p` -- connect to your database and then run: 
 
+`source schema.sql`
+
+Quit mySQL shell. Run the following command to seed the files:
+
+`npm run seed`.
+
+Then run:
+
+`npm start`
+
+**[⬆ back to top](#table-of-contents)**
 
 
 ## Technologies
