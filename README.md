@@ -33,6 +33,7 @@ Then run:
 
 `npm start`
 
+To view video walkthrough, please visit https://drive.google.com/file/d/1Zn4uEb8SQd2LQojtmvkE-i7IIRRs512S/view?usp=sharing
 
 ## Technologies
 - Sequelize
